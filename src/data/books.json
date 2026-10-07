@@ -1,0 +1,35 @@
+[
+  {
+    "id": "dune",
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "year": 1965,
+    "genres": ["Science Fiction"],
+    "status": "read",
+    "rating": 5,
+    "notes": "Still the gold standard for worldbuilding.",
+    "cover": ""
+  },
+  {
+    "id": "pragmatic-programmer",
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt, David Thomas",
+    "year": 1999,
+    "genres": ["Technology"],
+    "status": "reading",
+    "rating": null,
+    "notes": "",
+    "cover": ""
+  },
+  {
+    "id": "sapiens",
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "year": 2011,
+    "genres": ["History", "Non-fiction"],
+    "status": "to-read",
+    "rating": null,
+    "notes": "",
+    "cover": ""
+  }
+]
